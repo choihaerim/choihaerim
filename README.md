@@ -1,4 +1,4 @@
-### Hi there 👋 This is Choi hae-rim
+### Hi there 👋 This is hae-rim 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choihaerim&layout=compact&theme=nightowl&langs_count=10)<br> -->
 ![choihaerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=choihaerim&show_icons=true&theme=nightowl)<br>
